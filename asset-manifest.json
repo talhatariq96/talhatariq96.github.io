@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89c9e881.css",
+    "main.js": "/static/js/main.8a28417b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/pexels-ivan-samkov-7213192.jpg": "/static/media/pexels-ivan-samkov-7213192.2526c506e8526d976406.jpg",
+    "static/media/graphics.jpg": "/static/media/graphics.7db3490fc40226e3f6a5.jpg",
+    "static/media/Owner.jpeg": "/static/media/Owner.b599e318e5b3970e9ca2.jpeg",
+    "static/media/webd.jpg": "/static/media/webd.5901c50f6595a071dbd8.jpg",
+    "static/media/profile.png": "/static/media/profile.c8950e9864bba405ea41.png",
+    "static/media/phone2.png": "/static/media/phone2.0d2861ba50870270bed4.png",
+    "static/media/building.png": "/static/media/building.5bfa21d22fff80343343.png",
+    "static/media/developmentone.jpg": "/static/media/developmentone.2a0da1fae3dcdbe52566.jpg",
+    "static/media/digitalmarketing.jpg": "/static/media/digitalmarketing.e5eaf003b8d127c1b517.jpg",
+    "static/media/web2.jpg": "/static/media/web2.cf9307f66a29688d8fa2.jpg",
+    "static/media/messege.png": "/static/media/messege.8fc7aba7424135701938.png",
+    "static/media/whaysapp.png": "/static/media/whaysapp.a66d1d35958721865f81.png",
+    "static/media/mail3.png": "/static/media/mail3.baf58a4e654fc57821cc.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/youtube.svg": "/static/media/youtube.85c2f09d0ead35313e7bb2812e3c66f5.svg",
+    "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.2eda7bddaacee15c44494bb63ca94165.svg",
+    "static/media/twitter.svg": "/static/media/twitter.db226d55c343637e1371fc247b144b51.svg",
+    "static/media/facebook.svg": "/static/media/facebook.4d4460260f64103d8da4a91d8e856d36.svg",
+    "static/media/arrow-left-circle-fill.svg": "/static/media/arrow-left-circle-fill.945a91d00839a039b6284c5dc52348b8.svg",
+    "main.89c9e881.css.map": "/static/css/main.89c9e881.css.map",
+    "main.8a28417b.js.map": "/static/js/main.8a28417b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89c9e881.css",
+    "static/js/main.8a28417b.js"
+  ]
+}
